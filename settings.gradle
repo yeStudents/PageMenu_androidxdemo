@@ -1,0 +1,2 @@
+include ':app', ':pagemenulayoutandroidx'
+rootProject.name='PageMenu_androidxdemo'
